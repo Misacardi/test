@@ -68,31 +68,31 @@
           "name": "DEATHBRINGER STANCE",
           "description": "Periodically, Aatrox's next basic attack deals bonus physical damage and heals him, based on the target's max health.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/passive/Aatrox_Passive.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_P1.mp4"
         },
         {
           "name": "THE DARKIN BLADE",
           "description": "Aatrox slams his greatsword down, dealing physical damage. He can swing three times, each with a different area of effect.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AatroxQ.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_Q1.mp4"
         },
         {
           "name": "INFERNAL CHAINS",
           "description": "Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AatroxW.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_W1.mp4"
         },
         {
           "name": "UMBRAL DASH",
           "description": "Passively, Aatrox heals when damaging enemy champions. On activation, he dashes in a direction.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AatroxE.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_E1.mp4"
         },
         {
           "name": "WORLD ENDER",
           "description": "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and Move Speed. If he gets a takedown, this effect is extended.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AatroxR.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.mp4"
         }
       ]
     },
@@ -126,31 +126,31 @@
           "name": "ASSASSIN'S MARK",
           "description": "Dealing spell damage to a champion creates a ring of energy around them. Exiting that ring empowers Akali's next Attack with bonus range and damage. ",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/passive/Akali_P.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_P1.mp4"
         },
         {
           "name": "FIVE POINT STRIKE",
           "description": "Akali throws out five kunai, dealing damage based on her bonus Attack Damage and Ability Power and slowing.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AkaliQ.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_Q1.mp4"
         },
         {
           "name": "TWILIGHT SHROUD",
           "description": "Akali drops a cover of smoke and briefly gains Move Speed. While inside the shroud, Akali becomes invisible and unable to be selected by enemy spells and attacks. Attacking or using abilities will briefly reveal her.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AkaliW.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_W1.mp4"
         },
         {
           "name": "SHURIKEN FLIP",
           "description": "Flip backward and fire a shuriken forward, dealing magic damage. The first enemy or smoke cloud hit is marked. Re-cast to dash to the marked target, dealing additional damage.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AkaliE.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_E1.mp4"
         },
         {
           "name": "PERFECT EXECUTION",
           "description": "Akali leaps in a direction, damaging enemies she strikes. Re-cast: Akali dashes in a direction, executing all enemies she strikes.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AkaliR.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_R1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_R1.mp4"
         }
       ]
     },
@@ -184,31 +184,31 @@
           "name": "CURSED TOUCH",
           "description": "Amumu's basic attacks Curse his enemies, causing them to take bonus true damage from incoming magic damage.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/passive/Amumu_Passive.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_P1.mp4"
         },
         {
           "name": "BANDAGE TOSS",
           "description": "Amumu tosses a sticky bandage at a target, stunning and damaging the target while he pulls himself to them.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/BandageToss.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_Q1.mp4"
         },
         {
           "name": "DESPAIR",
           "description": "Overcome by anguish, nearby enemies lose a percentage of their maximum Health each second and have their Curses refreshed.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AuraofDespair.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_W1.mp4"
         },
         {
           "name": "TANTRUM",
           "description": "Permanently reduces the physical damage Amumu would take. Amumu can unleash his rage, dealing damage to surrounding enemies. Each time Amumu is hit, the cooldown on Tantrum is reduced by 0.5 seconds.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/Tantrum.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_E1.mp4"
         },
         {
           "name": "CURSE OF THE SAD MUMMY",
           "description": "Amumu entangles surrounding enemy units in bandages, applying his Curse, damaging and stunning them.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/CurseoftheSadMummy.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_R1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0032/ability_0032_R1.mp4"
         }
       ]
     },
@@ -242,25 +242,25 @@
           "name": "THE HITMAN AND THE SEER",
           "description": "Aphelios wields 5 Lunari Weapons made by his sister Alune. He has access to two at a time: one main-hand and one off-hand. Each weapon has a unique Basic Attack and Ability. Attacks and abilities consume a weapon's ammo. When out of ammo, Aphelios discards the weapon and Alune summons the next of the 5.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/passive/ApheliosP.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_P1.mp4"
         },
         {
           "name": "WEAPON ABILITES",
           "description": "Aphelios has 5 different activated abilities, based on his main-hand weapon: Calibrum (Rifle): Long range shot that marks its target for a long-range follow-up attack. Severum (Scythe Pistol): Run fast while attacking nearby enemies with both weapons. Gravitum (Cannon): Root all enemies slowed by this weapon. Infernum (Flamethrower): Blast enemies in a cone and attack them with your off-hand weapon. Crescendum (Chakram): Deploy a sentry that shoots your off-hand weapon.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/ApheliosQ_ClientTooltipWrapper.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_Q1.mp4"
         },
         {
           "name": "PHASE",
           "description": "Aphelios swaps his main-hand gun with his off-hand gun, replacing his basic attack and activated ability.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/ApheliosW.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_W1.mp4"
         },
         {
           "name": "WEAPON QUEUE SYSTEM",
           "description": "Aphelios has no third ability. This slot shows the next weapon Alune will give him. Weapon order begins fixed but may change over game time -- when a weapon is out of ammo it goes to the end of the order.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/ApheliosE_ClientTooltipWrapper.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0523/ability_0523_E1.mp4"
         },
         {
           "name": "MOONLIGHT VIGIL",
@@ -300,31 +300,31 @@
           "name": "CENTER OF THE UNIVERSE ",
           "description": "Stars orbit Aurelion Sol, dealing magic damage when they hit an enemy.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/passive/AurelionSol_Passive.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_P1.mp4"
         },
         {
           "name": "STARSURGE",
           "description": "Aurelion Sol creates an expanding disk, which explodes to stun and damage enemies when it moves too far away from him.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AurelionSolQ.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_Q1.mp4"
         },
         {
           "name": "CELESTIAL EXPANSION",
           "description": "Aurelion Sol pushes his stars farther out, increasing their damage and speed.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AurelionSolW.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_W1.mp4"
         },
         {
           "name": "COMET OF LEGEND ",
           "description": "Aurelion Sol takes off flying for a long distance.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AurelionSolE.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_E1.mp4"
         },
         {
           "name": "VOICE OF LIGHT",
           "description": "Aurelion Sol projects a blast of pure starfire, damaging and slowing all enemies caught in it and knocking nearby enemies back to a safer distance.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.19.1/img/spell/AurelionSolR.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_R1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_R1.mp4"
         }
       ]
     },
@@ -358,31 +358,31 @@
           "name": "LEAGUE OF DRAVEN",
           "description": "Draven gains his fans' Adoration when he catches a Spinning Axe or kills a minion, monster, or tower. Killing enemy champions grants Draven bonus gold based on how much Adoration he has.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.20.1/img/passive/Draven_passive.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_P1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_P1.mp4"
         },
         {
           "name": "SPINNING AXE",
           "description": "Draven's next attack will deal bonus physical damage. This axe will ricochet off the target high up into the air. If Draven catches it, he automatically readies another Spinning Axe. Draven can have two Spinning Axes at once.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.20.1/img/spell/DravenSpinning.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_Q1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_Q1.mp4"
         },
         {
           "name": "BLOOD RUSH",
           "description": "Draven gains increased Move Speed and Attack Speed. The Move Speed bonus decreases rapidly over its duration. Catching a Spinning Axe will refresh the cooldown of Blood Rush.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.20.1/img/spell/DravenFury.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_W1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_W1.mp4"
         },
         {
           "name": "STAND ASIDE",
           "description": "Draven throws his axes, dealing physical damage to targets hit and knocking them aside. Targets hit are slowed.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.20.1/img/spell/DravenDoubleShot.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_E1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_E1.mp4"
         },
         {
           "name": "WHIRLING DEATH",
           "description": "Draven hurls two massive axes to deal physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause it to return early. Deals less damage for each unit hit and resets when the axes reverse direction. Executes enemies who have less health than Draven's number of Adoration stacks.",
           "img": "https://ddragon.leagueoflegends.com/cdn/12.20.1/img/spell/DravenRCast.png",
-          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_R1.webm"
+          "video": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0119/ability_0119_R1.mp4"
         }
       ]
     }
